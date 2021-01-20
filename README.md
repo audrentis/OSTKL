@@ -30,9 +30,9 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc
 
 ## Plate Compatibility  
 #### H87A
-![render img](https://github.com/audrentis/OS_TKL/blob/main/doc/h87a.png)
+![render img](https://github.com/audrentis/OSTKL/blob/main/doc/h87a.png)
 #### H88
-![render img](https://github.com/audrentis/OS_TKL/blob/main/doc/h88.png)
+![render img](https://github.com/audrentis/OSTKL/blob/main/doc/h88.png)
 
 *Why no ISO plate support?* 
 * I use ANSI layout and didn't want unnecessary plate cutouts. 
