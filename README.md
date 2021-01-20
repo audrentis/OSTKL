@@ -40,11 +40,14 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc
 ## Producing this case 
 * Ensure scaling is set to millimeters 
     * approximate case dimensions are 150.98 mm x 372.37 mm
-* each piece is annotated in the .DXF files with their thicknesses and organized by layer from top to bottom 
-    * all case layers should be 2mm acrylic, however one of the high profile base layers can be 1.5mm thick of a material of your choosing to provide an accent piece 
-    * Switch plate should be 1.5mm thick 
-        * By using the accent layer option, this decreases the high profile height from ~8mm to ~7.5mm 
+* each case is divided into seperate .DXF files based on their designated layer thickness. 
+    * All case layers should be 2mm thick 
+        * Except for the switch plate, which should be ~1.5 mm
+* bottom-most layer above the plate can be 2 or 1.5mm based on desired high profile height ~7.5mm or ~8 mm
+    * This can be done to provide an accent piece, for example, if you want a POM plate, but the look of brass. 
+
 * Laser cutting services I have used for prototypes are [Ponoko](https://www.ponoko.com/) and [SendCutSend](https://sendcutsend.com/)
+    * This repository contains the ** raw files ** which will require research and modification of one's own to produce and potentially fix issues if they exist
     * Make sure to follow design instructions when placing an order, including available stock sizes and kerf values. 
         * learn more about kerf [here](http://www.cutlasercut.com/resources/tips-and-advice/what-is-laser-kerf#:~:text=in%20a%20drawing-,What%20does%20kerf%20mean%3F,type%20and%20other%20conditional%20factors.)
 
