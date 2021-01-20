@@ -52,4 +52,6 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc
 *not yet available* 
 
 # Disclaimer
-**As stated in the license, I provide these designs as-is and and without warranty of any kind.**
+**As stated in the license, I provide these designs as-is and and without warranty or liability of any kind.**  
+This repository is under the [GNU General Public License v3.0](https://github.com/audrentis/OSTKL/blob/main/LICENSE).  
+If you wish to sell these, read it. 
