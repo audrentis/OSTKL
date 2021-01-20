@@ -47,7 +47,7 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc
     * This can be done to provide an accent piece, for example, if you want a POM plate, but the look of brass. 
 
 * Laser cutting services I have used for prototypes are [Ponoko](https://www.ponoko.com/) and [SendCutSend](https://sendcutsend.com/)
-    * This repository contains the **raw files** which will require research and modification of one's own to produce and potentially fix issues if they exist
+    * This repository contains the _**raw files**_ which will require research and modification of one's own to produce and potentially fix issues if they exist
     * Make sure to follow design instructions when placing an order, including available stock sizes and kerf values. 
         * learn more about kerf [here](http://www.cutlasercut.com/resources/tips-and-advice/what-is-laser-kerf#:~:text=in%20a%20drawing-,What%20does%20kerf%20mean%3F,type%20and%20other%20conditional%20factors.)
 
