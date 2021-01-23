@@ -1,12 +1,12 @@
 # OSTKL
-![render img]()
+![render img](https://github.com/audrentis/OSTKL/blob/main/doc/example.jpg)
 
 ## About
 A series of stacked acrylic cases designed around Hineybush's H87A and H88 PCBs.
 
 * This case is designed to use 2mm acrylic and 1.5mm  switch plate 
 * High profile height of approximately 8mm or 7.5mm based on layer thickness choice
-* Independent case feet system allowing for the typing angles including approximately 7°, -7°, and 0°
+* Independent case feet system allowing for the typing angles including approximately 7° and 0°
 * 10mm case corners and offset case layers 
 * Large USB cutout to accommodate various cables 
 * Compatible with **NORTH FACING SPACEBAR** PCBs
@@ -45,11 +45,9 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc
 * each case is divided into seperate .DXF files based on their designated layer thickness. 
     * All case layers should be 2mm thick 
         * Except for the switch plate, which should be ~1.5 mm
-* bottom-most layer above the plate can be 2 or 1.5mm based on desired high profile height ~7.5mm or ~8 mm
-    * This can be done to provide an accent piece, for example, if you want a POM plate, but the look of brass. 
+* bottom-most layer above the plate can be 2 or 1.5mm based on desired high profile height ~7.5mm or ~8 mm or to provide an accent piece. 
 
-* Laser cutting services I have used for prototypes are [Ponoko](https://www.ponoko.com/) and [SendCutSend](https://sendcutsend.com/)
-    * This repository contains the _**raw files**_ which will require research and modification of one's own to produce and potentially fix issues if they exist. 
+* Laser cutting services I have used for prototypes are [Ponoko](https://www.ponoko.com/) and [SendCutSend](https://sendcutsend.com/) 
     * Make sure to follow design instructions when placing an order, including available stock sizes and kerf values. 
         * learn more about kerf [here](http://www.cutlasercut.com/resources/tips-and-advice/what-is-laser-kerf#:~:text=in%20a%20drawing-,What%20does%20kerf%20mean%3F,type%20and%20other%20conditional%20factors.)
 
