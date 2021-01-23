@@ -13,8 +13,8 @@ A series of stacked acrylic cases designed around Hineybush's H87A and H88 PCBs.
 * Case Versions for 
     * H88 Winkey
     * H88 Winkeyless
-    * H87A Winkey
-    * H87A Winkeyless
+    * H87A Winkey (Currently Testing)
+    * H87A Winkeyless (Currently Testing)
 
 ## Parts List
 * A Hineybush PCB 
@@ -33,10 +33,11 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc
 ![render img](https://github.com/audrentis/OSTKL/blob/main/doc/h87a.png)
 #### H88
 ![render img](https://github.com/audrentis/OSTKL/blob/main/doc/h88.png)
+*ISO support has been added as seperate plates*
 
-*Why no ISO plate support?* 
-* I use ANSI layout and didn't want unnecessary plate cutouts. 
-    * It may be added at a later date 
+## Layer Breakdown 
+![render img]()
+
 ## Producing this case 
 * Ensure scaling is set to millimeters 
     * approximate case dimensions are 150.98 mm x 372.37 mm
@@ -57,4 +58,4 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc
 # Disclaimer
 **As stated in the license, I provide these designs as-is and and without warranty or liability of any kind.**  
 This repository is under the [GNU General Public License v3.0](https://github.com/audrentis/OSTKL/blob/main/LICENSE).  
-If you wish to sell these, read it. 
+If you wish to sell these, you should read it. 
