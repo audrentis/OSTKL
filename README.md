@@ -6,10 +6,10 @@ A series of stacked acrylic cases designed around Hineybush's H87A and H88 PCBs.
 
 * This case is designed to use 2mm acrylic and 1.5mm  switch plate 
 * High profile height of approximately 8mm or 7.5mm based on layer thickness choice
-* Independent case feet system allowing for the typing angles including approximately 7° and 0°
+* Independent case feet system allowing for the typing angles of approximately 7° or 0°
 * 10mm case corners and offset case layers 
 * Large USB cutout to accommodate various cables 
-* Compatible with **NORTH FACING SPACEBAR** PCBs
+* Compatible with **NORTH FACING SPACEBAR** PCBs ONLY
 * Case Versions for 
     * H88 Winkey
     * H88 Winkeyless
@@ -56,7 +56,6 @@ Adhesive Back Polyurethane Bumpers | 95495K39 | 4 pc (1 72 pack)
         * learn more about kerf [here](http://www.cutlasercut.com/resources/tips-and-advice/what-is-laser-kerf#:~:text=in%20a%20drawing-,What%20does%20kerf%20mean%3F,type%20and%20other%20conditional%20factors.)
 
 ## Assembly Guide can be found [here](https://github.com/audrentis/OSTKL/blob/main/doc/guide.pdf)
-*not yet available* 
 
 # Disclaimer
 **As stated in the license, I provide these designs as-is and and without warranty or liability of any kind.**  
