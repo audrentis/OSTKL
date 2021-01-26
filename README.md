@@ -13,9 +13,11 @@ A series of stacked acrylic cases designed around Hineybush's H87A and H88 PCBs.
 * Case Versions for 
     * H88 Winkey
     * H88 Winkeyless
-    * H87A Winkey (Currently Testing)
-    * H87A Winkeyless (Currently Testing)
+    * H87A Winkey
+    * H87A Winkeyless 
 * Currently working on south facing spacebar versions 
+
+## Assembly Guide can be found [here](https://github.com/audrentis/OSTKL/blob/main/doc/guide.pdf)
 
 ## Parts List
 * A Hineybush PCB 
@@ -56,7 +58,7 @@ Adhesive Back Polyurethane Bumpers | 95495K39 | 4 pc (1 72 pack)
     * Make sure to follow design instructions when placing an order, including available stock sizes and kerf values. 
         * learn more about kerf [here](http://www.cutlasercut.com/resources/tips-and-advice/what-is-laser-kerf#:~:text=in%20a%20drawing-,What%20does%20kerf%20mean%3F,type%20and%20other%20conditional%20factors.)
 
-## Assembly Guide can be found [here](https://github.com/audrentis/OSTKL/blob/main/doc/guide.pdf)
+
 
 # Disclaimer 
 This repository is under the [GNU General Public License v3.0](https://github.com/audrentis/OSTKL/blob/main/LICENSE).  
