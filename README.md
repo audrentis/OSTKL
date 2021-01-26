@@ -15,7 +15,7 @@ A series of stacked acrylic cases designed around Hineybush's H87A and H88 PCBs.
     * H88 Winkeyless
     * H87A Winkey
     * H87A Winkeyless 
-* Currently working on south facing spacebar versions 
+* South-facing spacebar versions are a work-in-progress
 
 ## Assembly Guide can be found [here](https://github.com/audrentis/OSTKL/blob/main/doc/guide.pdf)
 
