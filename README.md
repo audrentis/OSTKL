@@ -15,6 +15,7 @@ A series of stacked acrylic cases designed around Hineybush's H87A and H88 PCBs.
     * H88 Winkeyless
     * H87A Winkey (Currently Testing)
     * H87A Winkeyless (Currently Testing)
+* Currently working on south facing spacebar versions 
 
 ## Parts List
 * A Hineybush PCB 
@@ -31,7 +32,7 @@ Torx Screw M3 x 0.50mm Thread, 6mm Long | 92832A215 | 22 pc (1 100 pack)
 Adhesive Back Polyurethane Bumpers | 95495K39 | 4 pc (1 72 pack)
 
 
-![render img](https://github.com/audrentis/OSTKL/blob/main/doc/example2.jpg) 
+*working on better pictures*
 
 ## Plate Compatibility  
 <!--#### H87A
@@ -46,7 +47,7 @@ Adhesive Back Polyurethane Bumpers | 95495K39 | 4 pc (1 72 pack)
 
 ## Producing this case 
 * Ensure scaling is set to millimeters 
-    * approximate case dimensions are 150.98 mm x 372.37 mm
+    * widest case layers are approximately 150.98 mm x 372.37 mm
 * each case is divided into seperate .DXF files based on their designated layer thickness. 
     * All case layers should be 2mm thick 
         * Except for the switch plate, which should be ~1.5 mm
