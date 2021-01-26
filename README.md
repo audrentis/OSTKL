@@ -35,8 +35,8 @@ Adhesive Back Polyurethane Bumpers | 95495K39 | 4 pc (1 72 pack)
 *working on better pictures*
 
 ## Plate Compatibility  
-<!--#### H87A
-![render img](https://github.com/audrentis/OSTKL/blob/main/doc/h87a.png)_-->
+#### H87A
+![render img](https://github.com/audrentis/OSTKL/blob/main/doc/h87a.png)
 #### H88
 ![render img](https://github.com/audrentis/OSTKL/blob/main/doc/h88.png)
 
@@ -58,7 +58,6 @@ Adhesive Back Polyurethane Bumpers | 95495K39 | 4 pc (1 72 pack)
 
 ## Assembly Guide can be found [here](https://github.com/audrentis/OSTKL/blob/main/doc/guide.pdf)
 
-# Disclaimer
-**As stated in the license, I provide these designs as-is and and without warranty or liability of any kind.**  
+# Disclaimer 
 This repository is under the [GNU General Public License v3.0](https://github.com/audrentis/OSTKL/blob/main/LICENSE).  
 If you wish to sell these, you should read it. 
